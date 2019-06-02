@@ -1,0 +1,1350 @@
+{
+  "status": 0,
+  "result": {
+    "totalSize": 67,
+    "done": true,
+    "records": [
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut26UAB"
+        },
+        "Id": "07L4N00000Nut26UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 701,
+        "LogLength": 27603
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2BUAR"
+        },
+        "Id": "07L4N00000Nut2BUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Assertion Failed",
+        "DurationMilliseconds": 2710,
+        "LogLength": 20837
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2GUAR"
+        },
+        "Id": "07L4N00000Nut2GUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 615,
+        "LogLength": 5529
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2LUAR"
+        },
+        "Id": "07L4N00000Nut2LUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1626,
+        "LogLength": 10366
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2QUAR"
+        },
+        "Id": "07L4N00000Nut2QUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 689,
+        "LogLength": 19410
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2VUAR"
+        },
+        "Id": "07L4N00000Nut2VUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 677,
+        "LogLength": 8355
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2aUAB"
+        },
+        "Id": "07L4N00000Nut2aUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1404,
+        "LogLength": 12286
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2fUAB"
+        },
+        "Id": "07L4N00000Nut2fUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1372,
+        "LogLength": 12658
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2kUAB"
+        },
+        "Id": "07L4N00000Nut2kUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 676,
+        "LogLength": 6027
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2pUAB"
+        },
+        "Id": "07L4N00000Nut2pUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1431,
+        "LogLength": 46495
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2uUAB"
+        },
+        "Id": "07L4N00000Nut2uUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1023,
+        "LogLength": 7239
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut2zUAB"
+        },
+        "Id": "07L4N00000Nut2zUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [ProfileId]: [ProfileId]",
+        "DurationMilliseconds": 1955,
+        "LogLength": 32313
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut34UAB"
+        },
+        "Id": "07L4N00000Nut34UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Books must have two pages: []",
+        "DurationMilliseconds": 1057,
+        "LogLength": 4016
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut39UAB"
+        },
+        "Id": "07L4N00000Nut39UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1030,
+        "LogLength": 3520
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3EUAR"
+        },
+        "Id": "07L4N00000Nut3EUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 3982,
+        "LogLength": 1715345
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3JUAR"
+        },
+        "Id": "07L4N00000Nut3JUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1073,
+        "LogLength": 15922
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3KUAR"
+        },
+        "Id": "07L4N00000Nut3KUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Assertion Failed: Expected: 0, Actual: 1",
+        "DurationMilliseconds": 6226,
+        "LogLength": 5995
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3OUAR"
+        },
+        "Id": "07L4N00000Nut3OUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1438,
+        "LogLength": 13462
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3TUAR"
+        },
+        "Id": "07L4N00000Nut3TUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Attempt to de-reference a null object",
+        "DurationMilliseconds": 1056,
+        "LogLength": 2901
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3YUAR"
+        },
+        "Id": "07L4N00000Nut3YUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1086,
+        "LogLength": 3642
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3dUAB"
+        },
+        "Id": "07L4N00000Nut3dUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Assertion Failed: Expected: 0, Actual: 1",
+        "DurationMilliseconds": 1380,
+        "LogLength": 6045
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3iUAB"
+        },
+        "Id": "07L4N00000Nut3iUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1535,
+        "LogLength": 4705
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3nUAB"
+        },
+        "Id": "07L4N00000Nut3nUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1291,
+        "LogLength": 6093
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3sUAB"
+        },
+        "Id": "07L4N00000Nut3sUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1286,
+        "LogLength": 5731
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut3xUAB"
+        },
+        "Id": "07L4N00000Nut3xUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1336,
+        "LogLength": 5111
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut42UAB"
+        },
+        "Id": "07L4N00000Nut42UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1376,
+        "LogLength": 41477
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut43UAB"
+        },
+        "Id": "07L4N00000Nut43UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5815,
+        "LogLength": 13388
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut47UAB"
+        },
+        "Id": "07L4N00000Nut47UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1333,
+        "LogLength": 13764
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4CUAR"
+        },
+        "Id": "07L4N00000Nut4CUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 1458,
+        "LogLength": 27869
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4HUAR"
+        },
+        "Id": "07L4N00000Nut4HUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 895,
+        "LogLength": 14930
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4MUAR"
+        },
+        "Id": "07L4N00000Nut4MUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Script-thrown exception",
+        "DurationMilliseconds": 3473,
+        "LogLength": 36962
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4RUAR"
+        },
+        "Id": "07L4N00000Nut4RUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 4096,
+        "LogLength": 3580938
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4WUAR"
+        },
+        "Id": "07L4N00000Nut4WUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 179,
+        "LogLength": 3916
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4bUAB"
+        },
+        "Id": "07L4N00000Nut4bUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 188,
+        "LogLength": 12334
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4cUAB"
+        },
+        "Id": "07L4N00000Nut4cUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 415,
+        "LogLength": 11523
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4gUAB"
+        },
+        "Id": "07L4N00000Nut4gUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6517,
+        "LogLength": 41428
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4lUAB"
+        },
+        "Id": "07L4N00000Nut4lUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6711,
+        "LogLength": 3927
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4qUAB"
+        },
+        "Id": "07L4N00000Nut4qUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [ProfileId]: [ProfileId]",
+        "DurationMilliseconds": 6405,
+        "LogLength": 31980
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut4vUAB"
+        },
+        "Id": "07L4N00000Nut4vUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Assertion Failed",
+        "DurationMilliseconds": 6596,
+        "LogLength": 20631
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut50UAB"
+        },
+        "Id": "07L4N00000Nut50UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6006,
+        "LogLength": 7293
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut55UAB"
+        },
+        "Id": "07L4N00000Nut55UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 4963,
+        "LogLength": 10284
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5AUAR"
+        },
+        "Id": "07L4N00000Nut5AUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6753,
+        "LogLength": 5459
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5FUAR"
+        },
+        "Id": "07L4N00000Nut5FUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Books must have two pages: []",
+        "DurationMilliseconds": 5035,
+        "LogLength": 4002
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5KUAR"
+        },
+        "Id": "07L4N00000Nut5KUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6968,
+        "LogLength": 3582096
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5PUAR"
+        },
+        "Id": "07L4N00000Nut5PUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5133,
+        "LogLength": 14877
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5UUAR"
+        },
+        "Id": "07L4N00000Nut5UUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6653,
+        "LogLength": 27898
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5ZUAR"
+        },
+        "Id": "07L4N00000Nut5ZUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 4847,
+        "LogLength": 8372
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5eUAB"
+        },
+        "Id": "07L4N00000Nut5eUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6278,
+        "LogLength": 6055
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5jUAB"
+        },
+        "Id": "07L4N00000Nut5jUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5371,
+        "LogLength": 15883
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5oUAB"
+        },
+        "Id": "07L4N00000Nut5oUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 4997,
+        "LogLength": 5058
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5tUAB"
+        },
+        "Id": "07L4N00000Nut5tUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5210,
+        "LogLength": 6065
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut5yUAB"
+        },
+        "Id": "07L4N00000Nut5yUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Attempt to de-reference a null object",
+        "DurationMilliseconds": 5881,
+        "LogLength": 2900
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut63UAB"
+        },
+        "Id": "07L4N00000Nut63UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5281,
+        "LogLength": 11537
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut68UAB"
+        },
+        "Id": "07L4N00000Nut68UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6438,
+        "LogLength": 19830
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6DUAR"
+        },
+        "Id": "07L4N00000Nut6DUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 9600,
+        "LogLength": 1713706
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6IUAR"
+        },
+        "Id": "07L4N00000Nut6IUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6189,
+        "LogLength": 4691
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6NUAR"
+        },
+        "Id": "07L4N00000Nut6NUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 4711,
+        "LogLength": 3602
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6SUAR"
+        },
+        "Id": "07L4N00000Nut6SUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6849,
+        "LogLength": 46593
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6XUAR"
+        },
+        "Id": "07L4N00000Nut6XUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5852,
+        "LogLength": 5670
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6cUAB"
+        },
+        "Id": "07L4N00000Nut6cUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5925,
+        "LogLength": 3526
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6hUAB"
+        },
+        "Id": "07L4N00000Nut6hUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 5574,
+        "LogLength": 12213
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6mUAB"
+        },
+        "Id": "07L4N00000Nut6mUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 6796,
+        "LogLength": 27866
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6rUAB"
+        },
+        "Id": "07L4N00000Nut6rUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Script-thrown exception",
+        "DurationMilliseconds": 6125,
+        "LogLength": 35643
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut6wUAB"
+        },
+        "Id": "07L4N00000Nut6wUAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 3084,
+        "LogLength": 13605
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut71UAB"
+        },
+        "Id": "07L4N00000Nut71UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 2569,
+        "LogLength": 12234
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut76UAB"
+        },
+        "Id": "07L4N00000Nut76UAB",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Api",
+        "Operation": "ApexTestHandler",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 3245,
+        "LogLength": 12543
+      },
+      {
+        "attributes": {
+          "type": "ApexLog",
+          "url": "/services/data/v45.0/sobjects/ApexLog/07L4N00000Nut7BUAR"
+        },
+        "Id": "07L4N00000Nut7BUAR",
+        "LogUser": {
+          "attributes": {
+            "type": "Name",
+            "url": "/services/data/v45.0/sobjects/User/00561000000hpTEAAY"
+          },
+          "Name": "Peter Ogilvie"
+        },
+        "Request": "Application",
+        "Operation": "Heartbeat",
+        "Application": "Unknown",
+        "Status": "Success",
+        "DurationMilliseconds": 2147483647,
+        "LogLength": 371369
+      }
+    ]
+  }
+}
+

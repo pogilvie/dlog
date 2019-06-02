@@ -1,0 +1,32 @@
+{
+  "name": "@pogilvie/dlog",
+  "version": "1.0.0",
+  "description": "Download debug logs form a Salesforce org",
+  "main": "dlog.js",
+  "bin": {
+    "dlog": "./dlog.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pogilvie/dlog.git"
+  },
+  "keywords": [
+    "Salesforce",
+    "Debug",
+    "Logs"
+  ],
+  "author": "Peter Ogilvie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pogilvie/dlog/issues"
+  },
+  "homepage": "https://github.com/pogilvie/dlog#readme",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "csv-writer": "^1.3.0",
+    "pogilvie_opt": "^1.0.3"
+  }
+}
