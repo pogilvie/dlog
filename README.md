@@ -1,9 +1,9 @@
 # dlog
-Download all Debug Log files form a Salesforce Org
+Download all Debug Log files from a Salesforce Org
 
 ### Install
 
-If you don't already have [node](https://nodejs.org/en/) and [sfdx](https://developer.salesforce.com/tools/sfdxcli) (Salesforce cli) install then install them.
+If you don't already have [node](https://nodejs.org/en/) and [sfdx](https://developer.salesforce.com/tools/sfdxcli) (Salesforce cli) installed you must install them.
 
 Install dlog
 
@@ -19,7 +19,7 @@ $ sfdx force:auth:web:login -a <your org alias>
 
 ### Run
 
-Create a directory for you downloaded logs to go in and cd into the directory
+Create a directory for where your downloaded logs should go and cd into the directory
 
 ````
 $ mkdir logs
@@ -31,7 +31,7 @@ Finally, run the command
 $ dlog -u myOrg
 ````
 
-dlog creates an index.csv files which you may load into a spreadsheet to an overview of the downloaded logs.
+dlog creates an index.csv file which you may load into a spreadsheet which will give you an overview of the downloaded logs.
 
 ````
 ID                 USER          REQUEST     STATUS                                                                                                                              DURATIONMSEC LOG LENGTH
