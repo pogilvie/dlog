@@ -7,7 +7,7 @@ If you don't already have [node](https://nodejs.org/en/) and [sfdx](https://deve
 
 Install dlog
 
-- sudo npm install @pogilvie:dlog
+- sudo npm install @pogilvie/dlog
 
 ### Setup
 
