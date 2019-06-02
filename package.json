@@ -1,6 +1,6 @@
 {
   "name": "@pogilvie/dlog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Download debug logs form a Salesforce org",
   "main": "dlog.js",
   "bin": {
