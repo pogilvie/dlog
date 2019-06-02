@@ -27,6 +27,6 @@
   "dependencies": {
     "columnify": "^1.5.4",
     "csv-writer": "^1.3.0",
-    "pogilvie_opt": "^1.0.3"
+    "pogilvie_opt": "^1.0.4"
   }
 }

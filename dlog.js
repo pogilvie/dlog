@@ -13,6 +13,11 @@ program.version('1.0.0')
        .option('-u --user <user>',  'user name or alias associated with the target org')
        .parse(process.argv)
 
+if (!program.user) {
+    console.log('please specify a user name for the target org (-u myOrg, --user someone@somewhere.com)')
+    process.exit(1)
+}
+
 const query = child_process.spawnSync('sfdx', ['force:data:soql:query', '-u', program.user, '-q', lgquery, '--json'],  { encoding: 'utf-8' } )
 
 const query_result = JSON.parse(query.stdout)
