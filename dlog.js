@@ -9,8 +9,9 @@ const
             program = new Program(),
             lgquery = 'SELECT Id, LogUser.Name, Request, Operation, Application, Status, DurationMilliseconds, LogLength FROM ApexLog'
 
-program.version('1.0.0')
+program.version('1.0.4')
        .option('-u --user <user>',  'user name or alias associated with the target org')
+       .option('-T --toconly', 'print table of logfiles and exit')
        .parse(process.argv)
 
 if (!program.user) {
@@ -58,12 +59,14 @@ if (query_result.result.done) {
             loglength: r.LogLength
         })
 
-        let debugLog = child_process.spawnSync(
-            'sfdx', ['force:apex:log:get', '-u', program.user, '-i', r.Id], 
-             { encoding: 'utf-8' }
-        )
-        fs.writeFileSync(r.Id + '.log', debugLog.stdout, {mode: 0o664})
-        console.log('wrote log ' + r.Id)
+        if (!program.toconly) {
+            let debugLog = child_process.spawnSync(
+                'sfdx', ['force:apex:log:get', '-u', program.user, '-i', r.Id], 
+                { encoding: 'utf-8' }
+            )
+            fs.writeFileSync(r.Id + '.log', debugLog.stdout, {mode: 0o664})
+            console.log('wrote log ' + r.Id)
+        }
 
     })
 

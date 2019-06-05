@@ -52,3 +52,5 @@ ID                 USER          REQUEST     STATUS                             
 07L4N00000Nut3EUAR Peter Ogilvie Api         Success                                                                                                                             3982         1715345   
 07L4N00000Nut3JUAR Peter Ogilvie Api         Success                                                                                                                             1073         15922     
 ````
+
+If you only want to create print and create a table of contents of log files use the -T option.

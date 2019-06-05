@@ -1,6 +1,6 @@
 {
   "name": "@pogilvie/dlog",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Download debug logs form a Salesforce org",
   "main": "dlog.js",
   "bin": {
@@ -27,6 +27,6 @@
   "dependencies": {
     "columnify": "^1.5.4",
     "csv-writer": "^1.3.0",
-    "pogilvie_opt": "^1.0.4"
+    "pogilvie_opt": "^1.0.5"
   }
 }
